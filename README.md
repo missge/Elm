@@ -160,16 +160,4 @@ npm run build
 
 <img src="https://static.oschina.net/uploads/space/2017/0207/110250_3uWi_2493500.jpeg" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cloud.githubusercontent.com/assets/20501873/24188896/ff2c5910-0f1d-11e7-80c0-bc28fd84fe80.png" width="40%"/>
 
-## 交流
 
-欢迎热爱学习、忠于分享的胖友一起来交流
-
-- QQ：745913574
-
-- QQ群：149683643
-
-## Donation
-
-If you find this project useful, you can buy me a cup of coffee
-
-<img width="650" src="https://static.oschina.net/uploads/space/2017/0223/201225_oQrz_2493500.jpeg" alt="">
